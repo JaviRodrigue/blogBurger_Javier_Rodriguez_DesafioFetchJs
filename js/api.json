@@ -1,0 +1,56 @@
+[
+    {
+        "id:": 1,
+        "nombre":"hamburguesa bomber",
+        "precio":950,
+        "url":"../css/imagenes/bomber.jpg"
+    },
+    {
+        "id:": 2,
+        "nombre":"hamburguesa triple",
+        "precio":900,
+        "url":"../css/imagenes/triple.jpg"
+    },
+    {
+        "id:": 3,
+        "nombre":"hamburguesa ultraCheddar",
+        "precio":890,
+        "url":"../css/imagenes/ultraCheddar.jpg"
+    },
+    {
+        "id:": 4,
+        "nombre":"hamburguesa a la beiconr",
+        "precio":850,
+        "url":"../css/imagenes/hamburguesaALaBeicon.jpg"
+    },
+    {
+        "id:": 5,
+        "nombre":"hamburguesa Picante",
+        "precio":800,
+        "url":"../css/imagenes/picante.jpg"
+    },
+    {
+        "id:": 6,
+        "nombre":"hamburguesa de pollo",
+        "precio":790,
+        "url":"../css/imagenes/dePollo.jpg"
+    },
+    {
+        "id:": 7,
+        "nombre":"dona burger",
+        "precio":500,
+        "url":"../css/imagenes/dinaBurger.jpg"
+    },
+    {
+        "id:": 8,
+        "nombre":"black burger",
+        "precio":700,
+        "url":"../css/imagenes/blackBurgers.jpg"
+    },
+    {
+        "id:": 9,
+        "nombre":"red burger",
+        "precio":650,
+        "url":"../css/imagenes/redBurger.jpg"
+    }
+]
